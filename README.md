@@ -13,16 +13,6 @@ This project uses **HTML, CSS, JavaScript, MediaPipe**, and **Matter.js** to det
 ## 📂 Project Structure
 
 
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository  
-git clone https://github.com/yourusername/thanos-snap-hand-tracker.git  
-cd thanos-snap-hand-tracker  
-
-### 2️⃣ Open the project  
-Open `index.html` in your browser and allow **camera access**.
-
 ## ⚙️ How It Works
 
 1. **Hand Tracking** – MediaPipe Hands detects 21 landmarks on your hand in real time.  
