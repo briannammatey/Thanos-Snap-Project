@@ -11,7 +11,7 @@ This project uses **HTML, CSS, JavaScript, MediaPipe**, and **Matter.js** to det
 - **Dust Physics Simulation** – Uses [Matter.js](https://brm.io/matter-js/) to create realistic particle scattering effects.  
 - **Web-based** – Runs entirely in your browser with HTML, CSS, and JavaScript
 ## 📂 Project Structure
-<img src="https://github.com/briannammatey/Thanos-Snap-Project/blob/main/thanos.png?raw=true" alt="Wordle Logo" width="300"/>
+<img src="https://github.com/briannammatey/Thanos-Snap-Project/blob/main/thanos.png?raw=true" alt="Wordle Logo" width="500" height = "300"/>
 
 
 ## ⚙️ How It Works
